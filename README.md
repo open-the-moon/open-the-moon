@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**open-the-moon/open-the-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
+---
+## Hi there 👋
+### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-Here are some ideas to get you started:
+----
+** 두껍게** <br> // br없으면 한줄에
+*기울게*
+~~취소선~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*1번
+*2번
+
+-1번
+-2번
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+system.out.println("aaa");
+
+```
