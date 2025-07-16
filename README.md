@@ -1,8 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=open-the-moon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open-the-moon&layout=compact)
 
+<!-- https://simpleicons.org/?q=slack // 아이콘 주소-->
 
-<!--내용 부분-->
 <h3 align="center">✨ Backend ✨</h3>
 <div align="center">
 <div dir="auto">
