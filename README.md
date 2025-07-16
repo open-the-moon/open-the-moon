@@ -1,5 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=open-the-moon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open-the-moon&layout=compact)
+<h3 align="center">Github Stats</h3>
+
+<div align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=open-the-moon)](https://github.com/open-the-moon/github-readme-stats)  
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=open-the-moon)](https://github.com/open-the-moon/github-readme-stats)
+
+</div>
+
+
+
 
 <!-- https://simpleicons.org/?q=slack // 아이콘 주소-->
 
