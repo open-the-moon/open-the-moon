@@ -3,7 +3,7 @@
 
 <!-- https://simpleicons.org/?q=slack // 아이콘 주소-->
 
-<h3 align="center">✨ Backend ✨</h3>
+<h3 align="center"> Backend </h3>
 <div align="center">
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5889d3db2b63a0b1ca6f00a7f7ec67f1a419b7d9bd303769e4eb7b3f0a4c0d9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f535052494e4720426f6f742d3644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d537072696e67426f6f74266c6f676f436f6c6f723d7768697465"><img alt="RED" src="https://camo.githubusercontent.com/5889d3db2b63a0b1ca6f00a7f7ec67f1a419b7d9bd303769e4eb7b3f0a4c0d9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f535052494e4720426f6f742d3644423333462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d537072696e67426f6f74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&amp;style=for-the-badge&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%;"></a> 
@@ -11,10 +11,10 @@
 
 </div>
 
+<br>
 
 
-
-<h3 align="center">✨ Frontend ✨</h3>
+<h3 align="center"> Frontend </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
